@@ -9,7 +9,10 @@
 
 Для начала работы клонируйте репозиторий и установите требуемые библиотеки
 
+##Python версии 3.12.3
+
 ```sh
-git clone <ссылка на репозиторий>
-cd <директорий проекта>
+git clone https://github.com/YaSoVuH/hack-ai-case-check-deers.git
 pip install -r requirements.txt
+cd Hakaton_CLIENT
+flet run main.py
