@@ -16,3 +16,6 @@ git clone https://github.com/YaSoVuH/hack-ai-case-check-deers.git
 pip install -r requirements.txt
 cd Hakaton_CLIENT
 flet run main.py
+```
+
+### Для начал использования надо обучить на датасете своём
