@@ -9,7 +9,7 @@
 
 Для начала работы клонируйте репозиторий и установите требуемые библиотеки
 
-##Python версии 3.12.3
+## Python версии 3.12.3
 
 ```sh
 git clone https://github.com/YaSoVuH/hack-ai-case-check-deers.git
